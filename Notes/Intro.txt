@@ -1,0 +1,14 @@
+React CDN's to get started to code in REACT.
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script> // it has react core functionality.
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script> // it is used for dom manupulations
+
+>React.createElement("span",{},"sub heading ") // which acccepts 3 parameters as args and returns an Object. 
+*This is how we create an element with data init. 
+*REACT internally creates an element using arg1, 2arg is considered as the attributes of an element and 3rd arg is the content which goes inside the element.
+
+> ReactDOM.createRoot(document.getElementById("root"));// this is how we ask REACT to find an element and consider as root for REACT code changes.
+
+> root.render([heading,subHeading]);// render will replace the content inside root with the given args.
+
+
+
