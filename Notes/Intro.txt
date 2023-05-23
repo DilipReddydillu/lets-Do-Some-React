@@ -10,5 +10,10 @@ React CDN's to get started to code in REACT.
 
 > root.render([heading,subHeading]);// render will replace the content inside root with the given args.
 
+* Transitive dependency is the way node modules are generated.
+* ^ caret which downloads minor version upgrade of a package.
+* ~ tilde which downloads mojor version upgrade of a package. not recomnded to use, it might break application.
+
+Lets use parcel as our project bundler.
 
 

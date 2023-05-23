@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React learn and implement",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilipReddydillu/lets-Do-Some-React.git"
+  },
+  "author": "Dillu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilipReddydillu/lets-Do-Some-React/issues"
+  },
+  "homepage": "https://github.com/DilipReddydillu/lets-Do-Some-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
